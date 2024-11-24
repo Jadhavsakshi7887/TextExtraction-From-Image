@@ -1,7 +1,7 @@
 # TextExtraction-From-Image
 This project utilizes Optical Character Recognition (OCR) to extract text from images. The goal is to automate the process of converting printed or handwritten text from image files into editable and searchable formats. 
 
-#Features
+**Features**
 
 Extracts text from images of various formats (JPEG, PNG, etc.).
 
@@ -11,7 +11,7 @@ Handles multiple languages with Tesseract's language packs.
 
 Outputs extracted text in a readable format or saves it to a file.
 
-#Requirements
+**Requirements**
 
 Python 3.6 or higher
 
@@ -31,11 +31,11 @@ Navigate to the project directory:
 
 ``cd MyTask1``
 
-``Contributing
+**Contributing**
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
-``License
+**License**
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
